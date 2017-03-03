@@ -32,7 +32,11 @@ statuses:
 
 promises:
     -
-        title: 'No more trips Maralago'
+        title: 'Gold Toilets in White House'
+        status: In Progress
+        category: Culture
+        
+        title: 'No more trips Mar-a-lago'
         status: Broken
         category: Culture
         tags:
